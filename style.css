@@ -1,0 +1,53 @@
+.button {
+  background-color: pink;
+  color: white;
+  border-radius: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: background-color 0.3s, color 0.3s;
+  margin: 20px;
+  align-items: center;
+}
+
+.button:hover {
+  background-color: #dc143c;
+  color: white;
+}
+
+.margin {
+  margin-left: 50px;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #d63384;
+}
+
+.move-on-hover {
+  transition: transform 0.3s;
+}
+
+.move-on-hover:hover {
+  transform: scale(1.1);
+}
+
+#contact h2 {
+  color: #dc143c;
+  font-size: 24px;
+}
+
+#contact p {
+  color: #dc143c;
+  font-size: 18px;
+}
+
+#contact .list-inline-item a i {
+  color: #dc143c;
+  font-size: 24px;
+}
+.navbar {
+  background-color: pink;
+}
+
+.card-title {
+  color: #dc143c;
+}
